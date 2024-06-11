@@ -1,0 +1,7 @@
+SELECT 
+    ConversionRate,
+    DecimalPlaces,
+    IsActive,
+    IsCorporate,
+    IsoCode
+FROM CurrencyType
